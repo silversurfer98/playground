@@ -1,0 +1,20 @@
+{
+    "three":
+            {
+                "a":["asa", "aea", "aok", "akk"],
+                "b":["asa", "aea", "aok", "akk"],
+                "c":["asa", "aea", "aok", "akk"],
+                "d":["asa", "aea", "aok", "akk"],
+                "e":["asa", "aea", "aok", "akk"],
+                "f":["asa", "aea", "aok", "akk"]
+            },
+    "omale":
+            {
+                "g":["asa", "aea", "aok", "akk"],
+                "h":["asa", "aea", "aok", "akk"],
+                "i":["asa", "aea", "aok", "akk"],
+                "j":["asa", "aea", "aok", "akk"],
+                "k":["asa", "aea", "aok", "akk"],
+                "r":["asa", "aea", "aok", "akk"]
+            }
+}
